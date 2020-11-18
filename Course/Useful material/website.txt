@@ -1,0 +1,20 @@
+Here is an excellent tutorial on data representation in computer systems:
+https://www3.ntu.edu.sg/home/ehchua/programming/java/DataRepresentation.html
+
+A short (~10mins) video clip on representing numbers and characters in binary:
+https://www.youtube.com/watch?v=1GSjbWt0c9M&t=522s
+
+A very basic introduction to the binary number system: https://www.youtube.com/watch?v=b7pOcU1xMks
+
+Next week we will discuss how to represent programs (instructions) in binary and this short video should prepare you for that discussion: https://www.youtube.com/watch?v=zltgXvg6r3k
+
+A good introduction on the mechanisms of a CPU:
+https://www.youtube.com/watch?v=sK-49uz3lGg
+
+A good description of C language -> assembly language:
+https://www.youtube.com/watch?v=yOyaJXpAYZQ
+
+Interactive arithmetic sim: http://www.ecs.umass.edu/ece/koren/arith/simulator/
+
+Class, this link should be useful for HW#4:
+https://github.com/exercism/mips/blob/master/exercises/hexadecimal/example.mips
